@@ -1,4 +1,4 @@
-ailSender# Email Sender with GUI
+# Email Sender with GUI
 
 This Python script provides a graphical user interface (GUI) for sending emails using the smtplib library. It allows you to compose and send emails through your Gmail account. You can also customize the email subject and recipient.
 
