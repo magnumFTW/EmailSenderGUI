@@ -29,7 +29,7 @@ def sendMail():
 #window
 window = ttk.Window(themename = 'journal')
 window.title('Email')
-window.geometry('600x600')
+window.geometry('600x350')
 
 #title
 title_label = ttk.Label(master = window, text = 'Email Sender', font = 'Calibri 20 bold')
